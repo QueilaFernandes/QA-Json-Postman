@@ -20,6 +20,7 @@
     { "id": 18, "titulo": "Jó", "autor": "Desconhecido" },
     { "id": 19, "titulo": "Salmos", "autor": "Davi" },
     { "id": 20, "titulo": "Provérbios", "autor": "Salomão" }
+    { "id": 21, "titulo": "Provérbios 2", "autor": "Salomão 2" }
   ],
   "versiculos": [
     { "id": 1, "livroId": 1, "capitulo": 1, "versiculo": 1, "texto": "No princípio criou Deus os céus e a terra." },
